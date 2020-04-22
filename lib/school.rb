@@ -1,5 +1,5 @@
 class School 
   
-  ROSTER = {}
+  ROSTER = Hash.new
   
 end
